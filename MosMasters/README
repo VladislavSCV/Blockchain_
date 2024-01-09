@@ -1,0 +1,6 @@
+Что требуется для скачивания
+go mod init modules
+git init
+go get github.com/beego/beego/v2
+go get -u github.com/beego/bee/v2
+bee new real_estate
